@@ -1,7 +1,7 @@
 # Semana 1 - Deploy estatico (GitHub Pages)
 ## Links
 - Repositorio: COLE_AQUI
-- Site (GitHub Pages): COLE_AQUI
+- Site (GitHub Pages): https://sauloopf.github.io/nuvem-semana1-saulo-pires/
 ## O que foi feito
 - Criei index.html, style.css e script.js pelo navegador
 - Ativei GitHub Pages (main / root)
