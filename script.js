@@ -19,4 +19,10 @@ apiEl.textContent = JSON.stringify(data, null, 2);
 } catch (err) {
 apiEl.textContent = "Erro no fetch: " + err.message;
 }
+  const out = document.getElementById("out");
+const btnGet = document.getElementById("btnGet");
+const btnPost = document.getElementById("btnPost");
+function show(obj) {
+out.textContent = typeof obj === "string" ? obj : JSON.stringify(obj, null, 2);
+}
 });
